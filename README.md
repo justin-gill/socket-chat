@@ -14,11 +14,11 @@
 1. Clone the repository
 2. Run the server
 ```bash
-cargo run --bin server
+cargo run --bin server port username_length
 ```
 3. Start a client
 ```bash
-cargo run --bin client
+cargo run --bin client port
 ```
 
 ![Screenshot](Example.png)
